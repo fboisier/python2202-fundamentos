@@ -35,3 +35,5 @@ auto_pancho.mostrarAuto()
 
 print(auto1.tieneColoresIguales(auto_pancho))
 
+auto_1 = Auto(motor="V6",chasis="CCC", cantidad_ruedas=5)
+auto_1.mostrarAuto()
