@@ -33,7 +33,5 @@ auto_pancho = Auto(motor="V6",chasis="CCC", cantidad_ruedas=5)
 auto_pancho.acelerar().acelerar().acelerar(50).acelerar()
 auto_pancho.mostrarAuto()
 
-print(auto1.tieneColoresIguales(auto_pancho))
+print("hola mundo")
 
-auto_1 = Auto(motor="V6",chasis="CCC", cantidad_ruedas=5)
-auto_1.mostrarAuto()
